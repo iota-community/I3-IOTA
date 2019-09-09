@@ -5,12 +5,13 @@
   
 **This workshop includes step-by-step instructions for buying and selling data on the I3 Marketplace**  
 
-<a href="pubs/I3-Onramp.pdf">Presentation from the Aug-2019 I3 Intelligent-Integrated IoT
-Conference and Workshop hosted by USC</a> showing an intelligent-Integrated IOT demo of buying and selling sensor data using the I3 Data Marketplace and IOTA
+Researchers at USC and IOTA teamed up to conduct experiments building IoT Devices and connecting them to the I3 Marketplace so they could buy and sell sensor data.  They stored data in the IOTA Tangle.  The results were demonstrated at the <a href="pubs/I3-Onramp.pdf">Aug-2019 I3 Intelligent-Integrated IoT Conference and Workshop hosted by USC</a>
 
-<h3>Step 1:  Build an IoT device</h3>
+In this workshop, you can learn to build your own IoT Device, connect it to I3 Marketplace, and store data in the Tangle.
 
-Click on the IoT Device that you want to build to see the tutorial for that device
+<h3>Step 1:  Building your IoT device</h3>
+
+Click on the IoT Device that you want to build to see the tutorial for that device.  AstroPiOTA and EnviroPhat are easy to build because you snap together two components.  CO2-TVOC requires connecting a few wires.  Autonomous Gardener has multiple components with a more complex wiring scheme.
 
 <img src="sensors.png" width=900 height=450 alt="Sensors" usemap="#sensormap">
 <map name="sensormap">
@@ -26,7 +27,7 @@ Click on the IoT Device that you want to build to see the tutorial for that devi
 
 <h3>Step 2:  <a href="https://github.com/NelsonPython/Connect_IoT_Device_to_I3">Connecting your IoT device to the I3 Marketplace</a>	</h3>
 
-<h3>Step 3: Evaluate data</h3>
+<h3>Step 3: Storing and evaluating your data</h3>
 
 This is a sample chart showing data collected by four IoT devices over a 24 hour period
 
