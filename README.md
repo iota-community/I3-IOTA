@@ -31,7 +31,7 @@ Click on the IoT Device that you want to build.  AstroPiOTA and EnviroPhat are e
 
 This is a sample chart showing data collected by four IoT devices over a 24 hour period
 
-<img src="images/chart.png" width=900>
+<img src="chart.png" width=900>
 
 Here are links to view data on the Tangle
 
