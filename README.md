@@ -1,22 +1,12 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" href="IOTA.css">
-</head>
-<body>
-
-<div id="grad1" align=center>
-	<br>
-	<div class="headerCard">
-		<h3 align=center>I3 and IOTA</h3>
-	</div>
-</div>
+<!DOCTYPE html><html><body>
+<h1 align=center>I3 (i-three) and IOTA</h1>
 <div align=center>
-		<a  class="w3-btn" href="https://github.com/NelsonPython/Connect_IoT_Device_to_I3">
+
+	<a  class="w3-btn" href="https://github.com/NelsonPython/Connect_IoT_Device_to_I3">
 				Step-by-step guide to connecting your IoT device to the I3 Data Marketplace</a>	
-		<br><br>
-		<a  class="w3-btn" href="pubs/I3-Onramp.pdf">Aug 2019 Presentation</a>	
+	<br>
+	<a  class="w3-btn" href="pubs/I3-Onramp.pdf">Aug-2019 presentation of the Intelligent-Integrated IOT demo of buying and selling sensor data using the I3 Data Marketplace and IOTA</a>
+
 <br><br>
 <img src="sensors.png" width=900 height=450 alt="Sensors" usemap="#sensormap">
 <map name="sensormap">
