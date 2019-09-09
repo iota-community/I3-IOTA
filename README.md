@@ -3,7 +3,6 @@
 <head>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="IOTA.css">
-	<title>I3 Demos</title>
 </head>
 <body>
 
@@ -12,7 +11,6 @@
 	<div class="headerCard">
 		<h3 align=center>Towards the Small Business On-ramp<br>to the I3 Data Marketplace</h3>
 		<p align=center>Aug-2019 Intelligent-Integrated IOT demo of <br>buying and selling sensor data using the I3 (i-three) Data Marketplace and IOTA
-
 		</p>
 	</div>
 </div>
