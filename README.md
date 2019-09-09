@@ -2,11 +2,15 @@
 <html>
 <body>
 <h1 align=center>I3 and IOTA</h1>
+  
+**This workshop includes step-by-step instructions for buying and selling data on the I3 Marketplace**  
 
-<a href="https://github.com/NelsonPython/Connect_IoT_Device_to_I3">Step-by-step guide to connecting your IoT device to the I3 Data Marketplace</a>	
+<a href="pubs/I3-Onramp.pdf">Presentation from the Aug-2019 I3 Intelligent-Integrated IoT
+Conference and Workshop hosted by USC</a> showing an intelligent-Integrated IOT demo of buying and selling sensor data using the I3 Data Marketplace and IOTA
 
-<a href="pubs/I3-Onramp.pdf">Aug-2019 presentation of the Intelligent-Integrated IOT demo of buying and selling sensor data using the I3 Data Marketplace and IOTA</a>
+<h3>Step 1:  Build an IoT device</h3>
 
+Click on the IoT Device that you want to build to see the tutorial for that device
 
 <img src="sensors.png" width=900 height=450 alt="Sensors" usemap="#sensormap">
 <map name="sensormap">
@@ -19,9 +23,17 @@
   <area shape="rect" coords="600,225,900,450," href="" alt="FootTraffic" title="Coming Soon">
 </map>
 
+
+<h3>Step 2:  <a href="https://github.com/NelsonPython/Connect_IoT_Device_to_I3">Connecting your IoT device to the I3 Marketplace</a>	</h3>
+
+<h3>Step 3: Evaluate data</h3>
+
+This is a sample chart showing data collected by four IoT devices over a 24 hour period
+
 <img src="images/chart.png" width=900>
 
-<br>
+Here are links to view data these devices are publishing to the Tangle
+
 <a  class="w3-btn" href="https://devnet.thetangle.org/address/ZNJWDJBGQVLCNJIRXPDUKHESBYXGFADCKAUCXFZFCWEOUJOJIDZHDCMVQQTEMZIMPOXFCTM9QSNNUZVBX">AutoGardener</a>
 
 <br>
