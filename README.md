@@ -11,19 +11,7 @@ In this workshop, you can learn to build your own IoT Device, connect it to I3 M
 
 <h3>Step 1:  Building your IoT device</h3>
 
-Click on the IoT Device that you want to build.  [AstroPiOTA](https://github.com/NelsonPython/AstroPiOTA) and [EnviroPhat](https://github.com/NelsonPython/EnviroPhat) are easy to build because you snap together two components.  [CO2-TVOC](https://github.com/NelsonPython/CO2TVOC) requires connecting a few wires.  [Autonomous Gardener](https://github.com/NelsonPython/AutoGardener) has multiple components with a more complex wiring scheme.  LA parking and foot traffic will be available soon.  They require a camera.
-
-<img src="sensors.png" width=900 height=450 alt="Sensors" usemap="#sensormap">
-<map name="sensormap">
-  <area shape="rect" coords="0,0,300,225" href="https://github.com/NelsonPython/CO2TVOC" alt="CO2">
-  <area shape="rect" coords="300,0,600,225" href="https://github.com/NelsonPython/AstroPiOTA" alt="AstroPiOTA">
-  <area shape="rect" coords="600,0,900,225" href="https://github.com/NelsonPython/EnviroPhat" alt="EnviroPhat">
-
-  <area shape="rect" coords="0,225,300,450" href="" alt="Coming Soon with new soil moisture sensor">
-  <area shape="rect" coords="300,225,600,450" href="" alt="Parker" title="Coming Soon">
-  <area shape="rect" coords="600,225,900,450," href="" alt="FootTraffic" title="Coming Soon">
-</map>
-
+Click on the IoT Device that you want to build.  [AstroPiOTA](https://github.com/NelsonPython/AstroPiOTA) and [EnviroPhat](https://github.com/NelsonPython/EnviroPhat) are easy to build because you snap together two components.  [CO2-TVOC](https://github.com/NelsonPython/CO2TVOC) requires connecting a few wires.  [Autonomous Gardener](https://github.com/NelsonPython/AutoGardener) has multiple components with a more complex wiring scheme. 
 
 <h3>Step 2:  <a href="https://github.com/NelsonPython/Connect_IoT_Device_to_I3">Connecting your IoT device to the I3 Marketplace</a>	</h3>
 
