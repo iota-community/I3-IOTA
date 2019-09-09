@@ -11,7 +11,7 @@ In this workshop, you can learn to build your own IoT Device, connect it to I3 M
 
 <h3>Step 1:  Building your IoT device</h3>
 
-Click on the IoT Device that you want to build.  [AstroPiOTA](https://github.com/NelsonPython/AstroPiOTA) and [EnviroPhat](https://github.com/NelsonPython/EnviroPhat) are easy to build because you snap together two components.  [CO2-TVOC](https://github.com/NelsonPython/CO2TVOC) requires connecting a few wires.  Autonomous Gardener has multiple components with a more complex wiring scheme.  LA parking and foot traffic will be available soon.  They require a camera.
+Click on the IoT Device that you want to build.  [AstroPiOTA](https://github.com/NelsonPython/AstroPiOTA) and [EnviroPhat](https://github.com/NelsonPython/EnviroPhat) are easy to build because you snap together two components.  [CO2-TVOC](https://github.com/NelsonPython/CO2TVOC) requires connecting a few wires.  [Autonomous Gardener](https://github.com/NelsonPython/AutoGardener) has multiple components with a more complex wiring scheme.  LA parking and foot traffic will be available soon.  They require a camera.
 
 <img src="sensors.png" width=900 height=450 alt="Sensors" usemap="#sensormap">
 <map name="sensormap">
