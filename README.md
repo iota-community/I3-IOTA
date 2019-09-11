@@ -3,7 +3,7 @@
 <body>
 <h1 align=center>I3 and IOTA</h1>
   
-**This workshop includes step-by-step instructions for using the Tangle to support buying and selling data on the I3 Marketplace**  
+**This workshop includes step-by-step instructions for buying and selling data on the I3 Marketplace**  
 
 Researchers at USC and IOTA teamed up to conduct experiments building IoT Devices and connecting them to the I3 Marketplace so they could buy and sell sensor data.  They stored data in the IOTA Tangle.  The results were demonstrated at the <a href="pubs/I3-Onramp.pdf">Aug-2019 I3 Intelligent-Integrated IoT Conference and Workshop hosted by USC</a>
 
