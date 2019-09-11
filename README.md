@@ -17,10 +17,6 @@ In this workshop, you learn to build your own IoT Device, connect it to I3 Marke
 
 <h3>Step 3: Storing and evaluating your data</h3>
 
-This is a sample chart showing data collected by four IoT devices over a 24 hour period
-
-<img src="chart.png" width=900>
-
 Here are links to view data on the Tangle
 
 <a  class="w3-btn" href="https://devnet.thetangle.org/address/ZNJWDJBGQVLCNJIRXPDUKHESBYXGFADCKAUCXFZFCWEOUJOJIDZHDCMVQQTEMZIMPOXFCTM9QSNNUZVBX">AutoGardener</a>
@@ -30,6 +26,10 @@ Here are links to view data on the Tangle
 <a  class="w3-btn" href="https://devnet.thetangle.org/address/K9LYCBRIBMKPDPMDPTJSQTCXYVPBULSIRQZJEHINYQXBYNFCFSWUXIMXELKTGXCZLYDZNDJEVKSOBWDXXTTNMMPRPC">CO2-TVOC</a>
 
 <a  class="w3-btn" href="https://devnet.thetangle.org/address/ORTP9BWTENDHERKNXRHRN9CAYPWSUXDPUZGFJVV9APCWORUFSE9N9OQYBSJEQAIBHJSWBIGFNQUDT9IUWBBPUYLAHB">EnviroPhat</a>
+
+Here is a sample chart showing data collected by four IoT devices over a 24 hour period
+
+<img src="chart.png" width=900>
 
 </body>
 </html>
