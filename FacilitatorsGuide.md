@@ -4,7 +4,7 @@ This document contains MeetUp plans for the MeetUp Series Intro to IoT, I3, and 
  
 ### Devices
 
-Participants can choose between four devices.  Using Raspberry Pi components and IOTA tutorials, they can quickly snap together AstroPiOTA and EnviroPhat in order to sense environment data. CO2-TVOC requires wiring and Autonomous Gardener requires soldering, wiring, and connecting more types of components.  
+Participants can choose between four devices built using Raspberry Pi.  [AstroPiOTA](https://github.com/NelsonPython/AstroPiOTA) and [EnviroPhat](https://github.com/NelsonPython/EnviroPhat) are easy to build because you snap together two components.  [CO2-TVOC](https://github.com/NelsonPython/CO2TVOC) requires connecting a few wires.  [Autonomous Gardener](https://github.com/NelsonPython/AutoGardener) has multiple components with a more complex wiring scheme. 
 
 ### Software
 
