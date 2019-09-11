@@ -7,7 +7,7 @@
 
 Researchers at USC and IOTA teamed up to conduct experiments building IoT Devices and connecting them to the I3 Marketplace so they could buy and sell sensor data.  They stored data in the IOTA Tangle.  The results were demonstrated at the <a href="pubs/I3-Onramp.pdf">Aug-2019 I3 Intelligent-Integrated IoT Conference and Workshop hosted by USC</a>
 
-In this workshop, you learn to build your own IoT Device, connect it to I3 Marketplace, and store data in the Tangle.
+In this workshop, you learn to build your own IoT Device, connect it to I3 Marketplace, and store data in the Tangle.  You may attend this workshop in person by joining this [MeetUp](https://www.eventbrite.com/e/intro-to-iot-i3-and-iota-tickets-71737176827).  If you want to teach this workshop, here is a [lesson plan](lessonPlan.md).
 
 <h3>Step 1:  Building your IoT device</h3>
 
