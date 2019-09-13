@@ -87,7 +87,7 @@ Introduce the www.Kaggle.com website along with AstroPIOTA and CO2-TVOC notebook
 
 Why collect environment data?
 
-Take a look at this [video of what is possible in the future](https://www.youtube.com/watch?v=81rXoSRIRSA&t=7s)
+Let's revisit our [video of what is possible in the future](https://www.youtube.com/watch?v=81rXoSRIRSA&t=7s)
 
 
 ## What is IoT?
