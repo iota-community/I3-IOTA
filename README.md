@@ -37,7 +37,7 @@ ThingSpeak channels
 
 [EnviroPhat](https://thingspeak.com/channels/865246)
 
-[CO2]()
+[CO2](https://thingspeak.com/channels/865249)
 
 </body>
 </html>
