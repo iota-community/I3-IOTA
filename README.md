@@ -19,9 +19,9 @@ In this workshop, you learn to build your own IoT Device, connect it to I3 Marke
 
 Here are links to view data on the Tangle
 
-<a  class="w3-btn" href="https://devnet.thetangle.org/address/ZNJWDJBGQVLCNJIRXPDUKHESBYXGFADCKAUCXFZFCWEOUJOJIDZHDCMVQQTEMZIMPOXFCTM9QSNNUZVBX">AutoGardener</a>
-
 <a  class="w3-btn" href="https://devnet.thetangle.org/address/VFMEYGUNJVBMRFORVRIOHVET9L9A9AJFCETCOEVI9WPJPRWWALLOBFLXQGGHTZWQKTBJELJNVA9SILXVZTMPMXKPWC">AstroPiOTA</a>
+
+<a  class="w3-btn" href="https://devnet.thetangle.org/address/ZNJWDJBGQVLCNJIRXPDUKHESBYXGFADCKAUCXFZFCWEOUJOJIDZHDCMVQQTEMZIMPOXFCTM9QSNNUZVBX">AutoGardener</a>
 
 <a  class="w3-btn" href="https://devnet.thetangle.org/address/K9LYCBRIBMKPDPMDPTJSQTCXYVPBULSIRQZJEHINYQXBYNFCFSWUXIMXELKTGXCZLYDZNDJEVKSOBWDXXTTNMMPRPC">CO2-TVOC</a>
 
@@ -30,6 +30,10 @@ Here are links to view data on the Tangle
 Here is a sample chart showing data collected by four IoT devices over a 24 hour period
 
 <img src="chart.png" width=900>
+
+ThingSpeak channels
+
+[AstroPiota Charts](https://thingspeak.com/channels/865101)
 
 </body>
 </html>
