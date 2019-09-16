@@ -48,7 +48,11 @@ MeetUp 9: Participants will be given an opportunity to showcase your project to 
 
 Python textbook: 	[Think Python, How to Think Like a Computer Scientist](https://greenteapress.com/thinkpython2/thinkpython2.pdf)
 
-Online Tutorials: 	https://github.com/iota-community/I3-IOTA
+IOTA Tutorials: 	https://github.com/iota-community/I3-IOTA
+
+Raspberry Pi Tutorials:  https://tutorials-raspberrypi.com/
+
+Sense Hat Tutorial:  https://projects.raspberrypi.org/en/projects/getting-started-with-the-sense-hat
 
 ## FAQ
 **Must I attend every session?**
