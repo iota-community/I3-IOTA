@@ -4,7 +4,7 @@ This document contains MeetUp plans for the MeetUp Series Intro to IoT, I3, and 
  
 ### Devices
 
-Participants can choose between four devices built using Raspberry Pi.  [AstroPiOTA](https://github.com/NelsonPython/AstroPiOTA) and [EnviroPhat](https://github.com/NelsonPython/EnviroPhat) are easy to build because you snap together two components.  [CO2-TVOC](https://github.com/NelsonPython/CO2TVOC) requires connecting a few wires.  [Autonomous Gardener](https://github.com/NelsonPython/AutoGardener) has multiple components with a more complex wiring scheme. 
+Step-by-step tutorials are provided for four devices.  These devices are built by attaching sensors to a Raspberry Pi.  [AstroPiOTA](https://github.com/NelsonPython/AstroPiOTA) and [EnviroPhat](https://github.com/NelsonPython/EnviroPhat) are easy to build because you snap one component called a "hat" onto the Pi.  [CO2-TVOC](https://github.com/NelsonPython/CO2TVOC) requires connecting a few wires.  [Autonomous Gardener](https://github.com/NelsonPython/AutoGardener) has multiple components with a more complex wiring scheme. 
 
 ### Software
 
@@ -12,15 +12,15 @@ Participants do not need prior knowledge of Raspbian and Python, but it will be 
 
 ## What is the learning methodology?
 
-By asking thought provoking questions, the MeetUp facilitator directs participants to discover the IoT, I3, and IOTA technology. This guide includes templates to jumpstart the facilitator in planning their sessions.
+By asking thought provoking questions, the facilitator directs participants to discover the IoT, I3, and IOTA technology. This guide includes templates to jumpstart the facilitator in planning their sessions.
 
 # MeetUp 1: Introduce <i>Intro to IoT, I3, and IOTA</i> Meetup Series
 
-This video introduces the vision of [IoT, I3, and IOTA](https://www.youtube.com/watch?v=81rXoSRIRSA&t=11s)
+Watch this video to see the vision of [IoT, I3, and IOTA](https://www.youtube.com/watch?v=81rXoSRIRSA&t=11s)
 
 Welcome to an exciting series of meetups to learn, in a hands-on manner, about IoT programming, data marketplaces, and distributed ledger technologies for new mobility and smart city applications.  
 
-This introduction guides you through a series of questions towards discovery of how IoT, I3, and IOTA can benefit you  and which components you should buy in order to build your device.  First, here’s our Code of Conduct, schedule and FAQ.
+This introduction guides you through a series of questions towards discovery of how IoT, I3, and IOTA can benefit you and which components you should buy in order to build your device.  First, here’s our Code of Conduct, schedule and FAQ.
 
 ## Code of Conduct
 
@@ -28,9 +28,9 @@ Everyone is welcome and diversity is encouraged. We are meeting at the USC campu
 
 ## Schedule
 
-MeetUp 2: Build your IoT device, or use IoT emulator, to collect environment data.  Each device has a tutorial has links to the components you will need.  The emulator is a CSV file with sensor data collected from actual sensors.  (This is in progress)
+MeetUp 2: Build your IoT device, or use IoT emulator, to collect environment data.  Each device has a tutorial has links to the components you will need.  The emulator is a CSV file with sensor data collected from actual sensors.
 
-MeetUp3: Test your IoT device.  We will work together to make sure everyone has a working device
+MeetUp 3: Test your IoT device.  We will work together to make sure everyone has a working device
 
 MeetUp 4: Connect your data to I3
 
@@ -57,6 +57,7 @@ Sense Hat Tutorial:  https://projects.raspberrypi.org/en/projects/getting-starte
 Kaggle Data Science Micro Courses:  https://www.kaggle.com/learn/overview
 
 ## FAQ
+
 **Must I attend every session?**
 While sessions build on each other, drop-ins are welcome.
 
