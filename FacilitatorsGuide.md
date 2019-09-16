@@ -67,7 +67,7 @@ We offer a device emulator in the form of data in a csv file. Owning your device
 Yes, the tutorials include scripts
 
 **Will this count towards my IOTA Developers Certificate?**
-The IOTA Foundation refers developers to the official certification course. However, you will learn important fundamentals that are key to passing this exam. Participants may want to form study groups to support their learning.
+The IOTA Foundation refers developers to the official certification course. However, you will learn important fundamentals that are key to passing this exam. Participants may form study groups.
 
 ## Getting started
 What is your goal in building an IoT device?
