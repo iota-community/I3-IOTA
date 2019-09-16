@@ -54,6 +54,8 @@ Raspberry Pi Tutorials:  https://tutorials-raspberrypi.com/
 
 Sense Hat Tutorial:  https://projects.raspberrypi.org/en/projects/getting-started-with-the-sense-hat
 
+Kaggle Data Science Micro Courses:  https://www.kaggle.com/learn/overview
+
 ## FAQ
 **Must I attend every session?**
 While sessions build on each other, drop-ins are welcome.
