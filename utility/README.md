@@ -97,7 +97,10 @@ Print a message when all the messages have been saved
 ```
     print("Messages saved in AutoGardener_history.csv")
 ```
-## AstroPiOTA
+
+In order to customize this script for other IoT Devices, change three lines of code.
+
+### AstroPiOTA
 
 Change the address
 ```
@@ -113,7 +116,7 @@ Change the CSV ROW
 ```
 print('20{},{},{},{},{},{},{},{},{},{},{},{},{},{}'.format(dict["timestamp"],dict["lng"],dict["lat"],dict["city"],dict["temperature"],dict["humidity"],dict["pressure"],dict["yaw"],dict["pitch"],dict["roll"],dict["x"],dict["y"],dict["z"],dict["hash"]), file=fo)
 ```
-## Envirophat
+### Envirophat
 Change the address
 ```
 address = 'ORTP9BWTENDHERKNXRHRN9CAYPWSUXDPUZGFJVV9APCWORUFSE9N9OQYBSJEQAIBHJSWBIGFNQUDT9IUWBBPUYLAHB'
@@ -128,7 +131,7 @@ Change the CSV ROW
 print('{},{},{},{},{},{},{},{},{},{},{},{},{},{}'.format(dict["timestamp"],"-118.323","33.893",dict["location"],dict["temp"],0,dict["press"],0,0,0,dict["accelX"],dict["accelY"],dict["accelZ"],dict["heading"],dict["rgb"]), file=fo)
 ```
 
-## CO2-TVOC
+### CO2-TVOC
 Change the address
 ```
 address = 'K9LYCBRIBMKPDPMDPTJSQTCXYVPBULSIRQZJEHINYQXBYNFCFSWUXIMXELKTGXCZLYDZNDJEVKSOBWDXXTTNMMPRPC'
