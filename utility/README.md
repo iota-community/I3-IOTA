@@ -2,7 +2,7 @@
 
 **Storing data at one address on the Tangle is not secure but it is useful when prototyping or learning.  This utility script downloads data stored in one address in small chunks.**
 
-### AutoGardener
+### Autonomous Gardener
 Set the chunk size.  In this example, the script gets sensor data from AutoGardener in chunks of 30 hashes
 ```
 n=30
