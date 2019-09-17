@@ -22,7 +22,7 @@ Here is a sample chart showing data collected by four IoT devices over a 24 hour
 
 <img src="chart.png" width=900>
 
-### Tangle data
+### Viewing data on the Tangle
 
 <a  class="w3-btn" href="https://devnet.thetangle.org/address/VFMEYGUNJVBMRFORVRIOHVET9L9A9AJFCETCOEVI9WPJPRWWALLOBFLXQGGHTZWQKTBJELJNVA9SILXVZTMPMXKPWC">AstroPiOTA</a>
 
@@ -32,7 +32,7 @@ Here is a sample chart showing data collected by four IoT devices over a 24 hour
 
 <a  class="w3-btn" href="https://devnet.thetangle.org/address/ORTP9BWTENDHERKNXRHRN9CAYPWSUXDPUZGFJVV9APCWORUFSE9N9OQYBSJEQAIBHJSWBIGFNQUDT9IUWBBPUYLAHB">EnviroPhat</a>
 
-### ThingSpeak channels
+### Viewing data in ThingSpeak channels
 
 [AstroPiota data visualization](https://thingspeak.com/channels/865101)
 
