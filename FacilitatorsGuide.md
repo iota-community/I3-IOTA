@@ -155,7 +155,7 @@ Here’s the link to the I3 Marketplace plus a tutorial and the API guide:
 
 [Connect an IoT Device to I3 Tutorial](https://github.com/NelsonPython/Connect_IoT_Device_to_I3)
 
-[I3 Marketplace](3.15.198.123:8000)
+[I3 Marketplace](http://3.15.198.123:8000/)
 
 [I3 API Documentation](https://anrgusc.github.io/iotm/I3_API_Documentation.pdf)
 
