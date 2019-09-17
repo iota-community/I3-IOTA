@@ -14,7 +14,7 @@ The data folder contains csv files with sensor data from the AstroPiOTA environm
 |HUMIDITY| percent of humidity|
 |PRESSURE| pressure|
 |PITCH| vertical position of the gyroscope|
-|ROLL|  rolling position of the gyroscope|
+|ROLL|  position of the gyroscope along the z-axis|
 |YAW| horizontal position of the gyroscope|
 |X| horizontal acceleration|
 |Y| vertical acceleration|
