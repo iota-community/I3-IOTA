@@ -22,7 +22,7 @@ Here is a sample chart showing data collected by four IoT devices over a 24 hour
 
 <img src="chart.png" width=900>
 
-### Viewing data on the Tangle
+### Viewing data on the [Tangle](https://docs.iota.org/docs/getting-started/0.1/introduction/what-is-the-tangle)
 
 <a  class="w3-btn" href="https://devnet.thetangle.org/address/VFMEYGUNJVBMRFORVRIOHVET9L9A9AJFCETCOEVI9WPJPRWWALLOBFLXQGGHTZWQKTBJELJNVA9SILXVZTMPMXKPWC">AstroPiOTA</a>
 
