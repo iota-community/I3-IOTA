@@ -1,7 +1,8 @@
 # Retrieving sensor data from Tangle test addresses
 
-**Storing data at one address on the Tangle is not secure but it is useful when prototyping or teaching.  This utility script downloads data stored in one address in small chunks.**
+**Storing data at one address on the Tangle is not secure but it is useful when prototyping or learning.  This utility script downloads data stored in one address in small chunks.**
 
+### AutoGardener
 Set the chunk size.  In this example, the script gets sensor data from AutoGardener in chunks of 30 hashes
 ```
 n=30
@@ -98,6 +99,8 @@ Print a message when all the messages have been saved
     print("Messages saved in AutoGardener_history.csv")
 ```
 
+[Complete Script for Autonomous Gardener](getAutoGardener_data.py)
+
 In order to customize this script for other IoT Devices, change three lines of code.
 
 ### AstroPiOTA
@@ -116,6 +119,9 @@ Change the CSV ROW
 ```
 print('20{},{},{},{},{},{},{},{},{},{},{},{},{},{}'.format(dict["timestamp"],dict["lng"],dict["lat"],dict["city"],dict["temperature"],dict["humidity"],dict["pressure"],dict["yaw"],dict["pitch"],dict["roll"],dict["x"],dict["y"],dict["z"],dict["hash"]), file=fo)
 ```
+[Complete Script for AstroPiOTA](getAstroPiOTA_data.py)
+
+
 ### Envirophat
 Change the address
 ```
@@ -130,6 +136,8 @@ Change the CSV ROW
 ```
 print('{},{},{},{},{},{},{},{},{},{},{},{},{},{}'.format(dict["timestamp"],"-118.323","33.893",dict["location"],dict["temp"],0,dict["press"],0,0,0,dict["accelX"],dict["accelY"],dict["accelZ"],dict["heading"],dict["rgb"]), file=fo)
 ```
+[Complete Script for EnviroPhat](getEnvirophat_data.py)
+
 
 ### CO2-TVOC
 Change the address
@@ -145,3 +153,4 @@ Change the CSV ROW
 ```
 print('{},{},{},{},{}'.format(dict["timestamp"],"-118.323","33.893",dict["co2-ppm"],dict["tvoc-ppb"]), file=fo)
 ```
+[Complete Script for CO2-TVOC](getCO2-TVOC_data.py)
