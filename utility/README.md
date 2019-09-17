@@ -1,4 +1,4 @@
-# Retrieve sensor data from the Tangle
+# Retrieving sensor data from Tangle test addresses
 
 **Storing data at one address on the Tangle is not secure but it is useful when prototyping or teaching.  This utility script downloads data stored in one address in small chunks.**
 
