@@ -40,5 +40,9 @@ Here is a sample chart showing data collected by four IoT devices over a 24 hour
 
 [CO2 data visualization](https://thingspeak.com/channels/865249)
 
+## Prototyping and testing
+
+[Retrieving data from Tangle test addresses](utility/README.md)
+
 </body>
 </html>
