@@ -123,7 +123,7 @@ https://github.com/iota-community/I3-IOTA/blob/master/README.md
 
 Anyone working with the emulator?  Here’s a link to download the emulator data:
 
-(Link TBD)
+https://github.com/iota-community/I3-IOTA/tree/master/data
 
 # MeetUp 3: Test your IoT device
 
