@@ -17,7 +17,7 @@ In this workshop, you learn to build your own IoT Device, connect it to I3 Marke
 
 <h3>Step 3: Storing and evaluating your data</h3>
 
-Here are links to view data on the Tangle
+### Tangle data
 
 <a  class="w3-btn" href="https://devnet.thetangle.org/address/VFMEYGUNJVBMRFORVRIOHVET9L9A9AJFCETCOEVI9WPJPRWWALLOBFLXQGGHTZWQKTBJELJNVA9SILXVZTMPMXKPWC">AstroPiOTA</a>
 
@@ -31,13 +31,13 @@ Here is a sample chart showing data collected by four IoT devices over a 24 hour
 
 <img src="chart.png" width=900>
 
-ThingSpeak channels
+### ThingSpeak channels
 
-[AstroPiota Charts](https://thingspeak.com/channels/865101)
+[AstroPiota data visualization](https://thingspeak.com/channels/865101)
 
-[EnviroPhat](https://thingspeak.com/channels/865246)
+[EnviroPhat data visualization](https://thingspeak.com/channels/865246)
 
-[CO2](https://thingspeak.com/channels/865249)
+[CO2 data visualization](https://thingspeak.com/channels/865249)
 
 </body>
 </html>
