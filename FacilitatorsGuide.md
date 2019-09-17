@@ -141,7 +141,7 @@ What are your observations?  Can you see any obstacles for buying and selling da
 
 Last week, we finished building our IoT Devices and we talked about how to share data. Tonight, we’re each going to setup a publisher and a subscriber on the I3 Marketplace.  Since we’re talking about pub-sub technology, I’ll show you ZMQ so you can query the Tangle.
 
-Before getting started, consider the format that you will use to send your data.  Here are some examples:   
+Before getting started, consider the format that you will use to send your data.  Here are some data format examples:   
 
 - <a  class="w3-btn" href="https://devnet.thetangle.org/address/ZNJWDJBGQVLCNJIRXPDUKHESBYXGFADCKAUCXFZFCWEOUJOJIDZHDCMVQQTEMZIMPOXFCTM9QSNNUZVBX">AutoGardener</a>
 
@@ -151,24 +151,22 @@ Before getting started, consider the format that you will use to send your data.
 
 - <a  class="w3-btn" href="https://devnet.thetangle.org/address/ORTP9BWTENDHERKNXRHRN9CAYPWSUXDPUZGFJVV9APCWORUFSE9N9OQYBSJEQAIBHJSWBIGFNQUDT9IUWBBPUYLAHB">EnviroPhat</a>
 
-Here’s the guide for setting up your two accounts.  You will use your publisher account to sell data and your subscriber account to retrieve it.
+Here’s the link to the I3 Marketplace plus a tutorial and the API guide:  
 
-(Add the new location of I3 Marketplace)
+[Connect an IoT Device to I3 Tutorial](https://github.com/NelsonPython/Connect_IoT_Device_to_I3)
 
-https://github.com/NelsonPython/Connect_IoT_Device_to_I3
+[I3 Marketplace](3.15.198.123:8000)
 
-https://anrgusc.github.io/iotm/I3_API_Documentation.pdf
+[I3 API Documentation](https://anrgusc.github.io/iotm/I3_API_Documentation.pdf)
 
+You will use your publisher account to sell data and your subscriber account to retrieve it.
 
 Set up products and start buying and selling data.  
 
 How did it go?  Were you successful in buying and selling data?  What observations do you have?  When you were a subscriber, did you notice that you have no place to store the data you purchased?  How about storing it on the Tangle?
 
-You can listen as your transactions are published, using ZMQ.  Here’s an example:
+Using ZMQ, you can listen as your transactions are published to the Tangle.  Here’s an example:
 https://github.com/NelsonPython/IoT-ZMQ-listener/blob/master/README.md
-
-
-
 
 
 
