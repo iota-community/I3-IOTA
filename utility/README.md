@@ -153,4 +153,4 @@ Change the CSV ROW
 ```
 print('{},{},{},{},{}'.format(dict["timestamp"],"-118.323","33.893",dict["co2-ppm"],dict["tvoc-ppb"]), file=fo)
 ```
-[Complete Script for CO2-TVOC](getCO2-TVOC_data.py)
+[Complete Script for CO2-TVOC](getAirQuality_data.py)
