@@ -18,7 +18,7 @@ The data folder contains csv files with sensor data from the AstroPiOTA environm
 |YAW| horizontal position of the gyroscope|
 |X| horizontal acceleration|
 |Y| vertical acceleration|
-|Z| roling acceleration|
+|Z| rolling acceleration|
 
 #### CSV File
 [August-September 2019](Data_AstroPiOTA-Aug-Sep2019.csv)
