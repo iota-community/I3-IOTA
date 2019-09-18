@@ -101,7 +101,7 @@ Let's revisit our [video of what is possible in the future](https://www.youtube.
 
 Show IOTA IoT video:  WhatisIOTA.mp4
 
-Show examples of IoT devices:  AstroPiOTA, enviroPhat, Autonomous Gardener, CO2-TVOC.  The [IOTA YouTube channel](https://www.youtube.com/channel/UClxDa0qkOqxIguokXPhnuOA) has more examples
+[AstroPiOTA](https://github.com/NelsonPython/AstroPiOTA), [EnviroPhat](https://github.com/NelsonPython/EnviroPhat) are easy to build because you snap one component called a "hat" onto the Pi.  [CO2-TVOC](https://github.com/NelsonPython/CO2TVOC) requires connecting a few wires.  [Autonomous Gardener](https://github.com/NelsonPython/AutoGardener) has multiple components with a more complex wiring scheme.  The [IOTA YouTube channel](https://www.youtube.com/channel/UClxDa0qkOqxIguokXPhnuOA) has more examples. 
 
 ## What components should I purchase to build my device?
 
