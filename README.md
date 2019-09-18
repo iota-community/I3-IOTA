@@ -15,8 +15,15 @@ In this workshop, you learn to build your own IoT Device, connect it to I3 Marke
 
 <h3>Step 2:  <a href="https://github.com/NelsonPython/Connect_IoT_Device_to_I3">Connecting your IoT device to the I3 Marketplace</a>	</h3>
 
-<h3>Step 3: Storing and evaluating your data</h3>
+This [Software Development Kit](https://github.com/ANRGUSC/I3-SDK) provides sample scripts that can be used by publishers and subscribers on the I3 real-time IoT data marketplace for smart communities.  Each of these tutorials includes a step-by-step code walkthrough explaining its data publisher and subscriber:
 
+- <a href="https://github.com/NelsonPython/AstroPiOTA">AstroPiOTA environment sensor</a>
+
+- <a href="https://github.com/NelsonPython/EnviroPhat">EnviroPhat temperature</a>
+
+- <a href="https://github.com/NelsonPython/CO2TVOC">CO2-TVOC air quality sensor</a>
+
+<h3>Step 3: Storing and evaluating your data</h3>
 
 Here is a sample chart showing data collected by four IoT devices over a 24 hour period
 
