@@ -51,5 +51,10 @@ Here is a sample chart showing data collected by four IoT devices over a 24 hour
 
 [Retrieving data from Tangle test addresses](utility/README.md)
 
+### Learning resources
+
+[Learn Python Playlist](PythonPlaylist.md)
+
+
 </body>
 </html>
