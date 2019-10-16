@@ -38,15 +38,13 @@ MeetUp 5: Store data on the IOTA Tangle.  By design the I3 Marketplace does not 
 
 MeetUp 6: MOBI Month - [Auto Mobility](https://automobilityla.com/) is an important event every November in Los Angeles, so November is “MOBI Month”.  We will work together to learn about platooning and EV charging
 
-MeetUp 7: MOBI Month – invited speaker: Anne Smith, Head of Mobility and Automotive at the IOTA Foundation
+MeetUp 7: Introduction to Data Science for IoT using Kaggle, a data science platform with tools for turning raw data into useful information
 
-MeetUp 8: Introduction to Data Science for IoT using Kaggle, a data science platform with tools for turning raw data into useful information
-
-MeetUp 9: Participants will be given an opportunity to showcase your project to industry professionals
+MeetUp 8: Participants will be given an opportunity to showcase your project to industry professionals
 
 ## Materials
 
-Python textbook: 	[Think Python, How to Think Like a Computer Scientist](https://greenteapress.com/thinkpython2/thinkpython2.pdf)
+[Learn Python playlist](PythonPlaylist.md)
 
 IOTA Tutorials: 	https://github.com/iota-community/I3-IOTA
 
