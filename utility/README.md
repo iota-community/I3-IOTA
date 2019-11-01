@@ -2,7 +2,7 @@
 
 **Storing data at one address on the Tangle is not secure but it is useful when prototyping or learning.  This utility script downloads data stored in one address in small chunks.**
 
-First, set the number of data transactions you want to retrieve at one time.  This is called the "chunk size".  Data transactions are identified by a hash.  In this example, the script gets sensor data in chunks of 30 hashes because n=30
+This code walkthrough explains how to use this script.  It also explains how to modify this script to get data stored by different IoT Devices.  First, set the number of data transactions you want to retrieve at one time.  This is called the "chunk size".  Data transactions are identified by a hash.  In this example, the script gets sensor data in chunks of 30 hashes because n=30
 ```
 n=30
 ```
@@ -102,7 +102,7 @@ Print a message when all the messages have been saved
 
 In order to customize this script for other IoT Devices, change three lines of code.
 
-### AstroPiOTA
+### Getting data stored by AstroPiOTA environment sensor
 
 This script can be modified to get data from the AstroPiOTA environment sensor.  Change the address.
 
@@ -122,7 +122,7 @@ print('20{},{},{},{},{},{},{},{},{},{},{},{},{},{}'.format(dict["timestamp"],dic
 [Complete Script for AstroPiOTA](getAstroPiOTA_data.py)
 
 
-### Envirophat
+### Getting data stored by Envirophat environment sensor
 This script can be modified to get data from the Envirophat environment sensor.  Change the address
 ```
 address = 'ORTP9BWTENDHERKNXRHRN9CAYPWSUXDPUZGFJVV9APCWORUFSE9N9OQYBSJEQAIBHJSWBIGFNQUDT9IUWBBPUYLAHB'
@@ -139,7 +139,7 @@ print('{},{},{},{},{},{},{},{},{},{},{},{},{},{}'.format(dict["timestamp"],"-118
 [Complete Script for EnviroPhat](getEnvirophat_data.py)
 
 
-### CO2-TVOC
+### Getting data stored by CO2-TVOC air quality sensor
 This script can be used to get data from the air quality sensor.  Change the address
 ```
 address = 'K9LYCBRIBMKPDPMDPTJSQTCXYVPBULSIRQZJEHINYQXBYNFCFSWUXIMXELKTGXCZLYDZNDJEVKSOBWDXXTTNMMPRPC'
