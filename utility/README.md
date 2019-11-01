@@ -2,8 +2,7 @@
 
 **Storing data at one address on the Tangle is not secure but it is useful when prototyping or learning.  This utility script downloads data stored in one address in small chunks.**
 
-### Autonomous Gardener
-Set the chunk size.  In this example, the script gets sensor data from AutoGardener in chunks of 30 hashes
+First, set the number of data transactions you want to retrieve at one time.  This is called the "chunk size".  Data transactions are identified by a hash.  In this example, the script gets sensor data in chunks of 30 hashes because n=30
 ```
 n=30
 ```
@@ -24,7 +23,7 @@ Set the api to the Iota testbed called, Devnet
 ```
 api = Iota('https://nodes.devnet.iota.org:443')
 ```
-Set the address
+Set the address.  This is the address for the Autonomous Gardener
 ```
 address = 'ZNJWDJBGQVLCNJIRXPDUKHESBYXGFADCKAUCXFZFCWEOUJOJIDZHDCMVQQTEMZIMPOXFCTM9QSNNUZVBXMHVKFPSF9'
 ```
@@ -105,7 +104,8 @@ In order to customize this script for other IoT Devices, change three lines of c
 
 ### AstroPiOTA
 
-Change the address
+This script can be modified to get data from the AstroPiOTA environment sensor.  Change the address.
+
 ```
 address = 'VFMEYGUNJVBMRFORVRIOHVET9L9A9AJFCETCOEVI9WPJPRWWALLOBFLXQGGHTZWQKTBJELJNVA9SILXVZTMPMXKPWC'
 
@@ -123,7 +123,7 @@ print('20{},{},{},{},{},{},{},{},{},{},{},{},{},{}'.format(dict["timestamp"],dic
 
 
 ### Envirophat
-Change the address
+This script can be modified to get data from the Envirophat environment sensor.  Change the address
 ```
 address = 'ORTP9BWTENDHERKNXRHRN9CAYPWSUXDPUZGFJVV9APCWORUFSE9N9OQYBSJEQAIBHJSWBIGFNQUDT9IUWBBPUYLAHB'
 
@@ -140,7 +140,7 @@ print('{},{},{},{},{},{},{},{},{},{},{},{},{},{}'.format(dict["timestamp"],"-118
 
 
 ### CO2-TVOC
-Change the address
+This script can be used to get data from the air quality sensor.  Change the address
 ```
 address = 'K9LYCBRIBMKPDPMDPTJSQTCXYVPBULSIRQZJEHINYQXBYNFCFSWUXIMXELKTGXCZLYDZNDJEVKSOBWDXXTTNMMPRPC'
 
