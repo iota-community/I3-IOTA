@@ -98,7 +98,7 @@ Print a message when all the messages have been saved
     print("Messages saved in AutoGardener_history.csv")
 ```
 
-[Complete Script for Autonomous Gardener](getAutoGardener_data.py)
+[Entire script for Autonomous Gardener](getAutoGardener_data.py)
 
 In order to customize this script for other IoT Devices, change three lines of code.
 
@@ -119,7 +119,7 @@ Change the CSV ROW
 ```
 print('20{},{},{},{},{},{},{},{},{},{},{},{},{},{}'.format(dict["timestamp"],dict["lng"],dict["lat"],dict["city"],dict["temperature"],dict["humidity"],dict["pressure"],dict["yaw"],dict["pitch"],dict["roll"],dict["x"],dict["y"],dict["z"],dict["hash"]), file=fo)
 ```
-[Complete Script for AstroPiOTA](getAstroPiOTA_data.py)
+[Entire script for AstroPiOTA](getAstroPiOTA_data.py)
 
 
 ### Getting data stored by Envirophat environment sensor
@@ -136,7 +136,7 @@ Change the CSV ROW
 ```
 print('{},{},{},{},{},{},{},{},{},{},{},{},{},{}'.format(dict["timestamp"],"-118.323","33.893",dict["location"],dict["temp"],0,dict["press"],0,0,0,dict["accelX"],dict["accelY"],dict["accelZ"],dict["heading"],dict["rgb"]), file=fo)
 ```
-[Complete Script for EnviroPhat](getEnvirophat_data.py)
+[Entire script for EnviroPhat](getEnvirophat_data.py)
 
 
 ### Getting data stored by CO2-TVOC air quality sensor
@@ -153,4 +153,4 @@ Change the CSV ROW
 ```
 print('{},{},{},{},{}'.format(dict["timestamp"],"-118.323","33.893",dict["co2-ppm"],dict["tvoc-ppb"]), file=fo)
 ```
-[Complete Script for CO2-TVOC](getAirQuality_data.py)
+[Entire script for CO2-TVOC](getAirQuality_data.py)
