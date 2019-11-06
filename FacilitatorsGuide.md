@@ -183,21 +183,9 @@ Next, I’ll introduce PYOTA, the IOTA Python client library.  Follow the instal
 
 https://github.com/iota-community/python-iota-workshop
 
-If you are new to Python, here's a good class:
+If you are new to Python, here's the Ultimate Python Learner's Playlist:
 
-[Python for Data Scientists](https://www.kaggle.com/learn/python)
-
-## IOTA Device Tutorials
-
-Dive deeper into the code walkthroughs in the tutorials to understand how the devices store data in the Tangle
-
-http://www.nelsonglobalgeek.com/I3/Phase1/Phase1-Demo.htm
-
-
-
-
-
-
+http://www.nelsontech.blog/Tutorial-Python/PythonPlaylist.htm
 
 # MeetUp 6: MOBI Month
 
