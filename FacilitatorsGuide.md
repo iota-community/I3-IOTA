@@ -199,7 +199,7 @@ During this meetup, the group will work together on a MOBI project. Possible pro
 
 Now that we have a number of IoT Devices buying and selling data, how do we turn all this raw data into useful information?
 
-Introducing the [Kaggle](https://www.kaggle.com) data science platform and [Pandas](https://www.kaggle.com/learn/pandas), the data analysis library.  Also introduce plotting a charts using matplotlib.
+Introducing the [Kaggle](https://www.kaggle.com) data science platform along with [Pandas](https://www.kaggle.com/learn/pandas), the data analysis library, and matplotlib plus other [data visualization](https://www.kaggle.com/learn/data-visualization) tools.
 
 [Tutorial: Earthquake analysis](http://www.nelsontech.blog/Tutorial-DetectEarthquake/EarthquakePlaylist.htm)
 
