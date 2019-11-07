@@ -167,7 +167,6 @@ Using ZMQ, you can listen as your transactions are published to the Tangle.  Her
 https://github.com/NelsonPython/IoT-ZMQ-listener/blob/master/README.md
 
 
-
 # MeetUp 5: Store data on the IOTA Tangle
 Last week, we bought and sold data. Did you notice that when you bought data, you had no place to keep it? Tonight we will learn how to store data on the IOTA Tangle.  First, here's the technical documentation for IOTA
 
@@ -197,16 +196,8 @@ During this meetup, the group will work together on a MOBI project. Possible pro
 
  - [Platooning tutorial](https://github.com/NelsonPython/platooning)
 
- - EV Charger - coming soon
 
-
-# MeetUp 7: Invited speaker: IOTA MOBI
-
-Anne Smith, Head of Mobility and Automotive, will speak about mobility
-
-
-
-# MeetUp 8: Into to Data Science for IoT
+# MeetUp 7: Into to Data Science for IoT
 
 Now that we have a number of IoT Devices buying and selling data, how do we turn all this raw data into useful information?
 
@@ -216,11 +207,4 @@ Give an overview of [Pandas](https://www.kaggle.com/learn/pandas), the data anal
 
 Give an overview of plotting a chart using matplotlib
 
-
-
-
-
-# MeetUp 9: demo what we learned
-
-We are inviting members of the OMG standards group and the I3 Consortium to see a demo of what we learned. This gives participants an opportunity to showcase their skills to professionals.
 
