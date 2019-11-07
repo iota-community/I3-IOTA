@@ -40,8 +40,6 @@ MeetUp 6: MOBI Month - [Auto Mobility](https://automobilityla.com/) is an import
 
 MeetUp 7: Introduction to Data Science for IoT using Kaggle, a data science platform with tools for turning raw data into useful information
 
-MeetUp 8: Participants will be given an opportunity to showcase your project to industry professionals
-
 ## Materials
 
 [Learn Python playlist](PythonPlaylist.md)
